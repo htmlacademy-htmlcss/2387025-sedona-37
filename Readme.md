@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Глеб Кодрик](https://up.htmlacademy.ru/htmlcss/37/user/2387025).
-* Наставник: `Неизвестно`.
+* Наставник: Артем https://htmlacademy.ru/profile/aimenin.
 
 ---
 
